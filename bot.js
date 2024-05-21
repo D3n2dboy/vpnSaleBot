@@ -1,5 +1,5 @@
 const TelegramBot = require('node-telegram-bot-api');
-const token = '7182398378:AAG_lrVsqPZqLFvyseSob99GQw03wCgxZuc';
+const token = '';
 
 const { exec } = require('child_process');
 const fs = require('fs');
